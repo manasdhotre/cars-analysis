@@ -75,7 +75,7 @@ cars-market-analysis/
 
 1. Clone this repository
    ```bash
-   git clone https://github.com/YOUR_USERNAME/cars-market-analysis.git
+   git clone https://github.com/ManasDhotre/cars-market-analysis.git
    cd cars-market-analysis
    ```
 
@@ -99,8 +99,8 @@ cars-market-analysis/
 Aspiring Data Scientist | Python · Pandas · Data Analysis
 📍 Pune, India
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/manas-dhotre)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/ManasDhotre)
 
 ---
 
